@@ -1,4 +1,4 @@
-### WHILE LOOPS CARDIO
+# WHILE LOOPS CARDIO
 
 Let's get some practice with while loops!  
 ![](https://media.giphy.com/media/hWddcO7xQWCqIew5rH/giphy.gif)
